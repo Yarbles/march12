@@ -52,8 +52,5 @@
         //Assert
         $this->assertEquals(8, $result);
         }
-
-
-
     }
 ?>

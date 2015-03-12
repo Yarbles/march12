@@ -32,6 +32,5 @@
             $final_score = array_sum($outcome_array);
             return $final_score;
         }
-
     }
 ?>
