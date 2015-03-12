@@ -1,7 +1,8 @@
 <?php
     class Scrabble
     {
-        function score() {
+        function score()
+        {
 
         }
 
