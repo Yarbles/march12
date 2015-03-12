@@ -1,0 +1,23 @@
+1. For an input of 1, the program will return "one".
+
+2. For an input of 10, the program will return "ten".
+
+3. For an input of 14, the program will return "fourteen".
+
+4. For an input of 21, the program will return "twenty-one".
+
+5. For an input of 101, the prgram will return "one hundred one".
+
+6. For an input of 111, the program will return "one hundred eleven".
+
+7. For an input of 134, the program will return "one hundred thirty four"
+
+8. For an input of 1134, the program will return "one thousand one hundred thirty four".
+
+9. For an input of 10034, the program will return "ten thousand one hundred thirty four"
+
+10. For an input of 11111, the program will return "eleven thousand one hundred eleven".
+
+11. For an input of 58008, the program will return "BOOBS! Duurrrr...."
+
+12. For an input of 111111, the program will return "one hundred eleven thousand one hundred eleven".
