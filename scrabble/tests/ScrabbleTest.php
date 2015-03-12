@@ -4,7 +4,7 @@
 
     class ScrabbleTest extends PHPUnit_Framework_TestCase
     {
-        function test_shoot_rs()
+        function test_score_a()
         {
         //Arrange
         $test_Scrabble = new Scrabble;
@@ -14,8 +14,21 @@
         $result = $test_Scrabble->score($input);
 
         //Assert
-        $this->assertEquals("1", $result);
+        $this->assertEquals(1, $result);
         }
+        function test_score_aa()
+        {
+        //Arrange
+        $test_Scrabble = new Scrabble;
+        $input = "aa";
+
+        //Act
+        $result = $test_Scrabble->score($input);
+
+        //Assert
+        $this->assertEquals(2, $result);
+        }
+
 
 
     }
